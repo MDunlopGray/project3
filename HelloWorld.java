@@ -20,7 +20,7 @@ public class HelloWorld {
 
     public static void main(String[] args) {
         // Prints "Hello, World" to the terminal window.
-        System.out.println("Hello World. GIT, be nice \n Now editing in the develop branch");
+        System.out.println("Hello World. GIT, be nice \n Now editing in the develop branch \n test to see if pushes smartly");
     }
 
 }
